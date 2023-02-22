@@ -56,8 +56,8 @@
 										<span class="input-group-text" id="">Upload</span>
 									</div>
 									<div class="custom-file">
-										<input type="file" id="i_file" name="file"><span id="droparea" class="help-block"></span>
-
+										<input type="file" id="i_file" name="file">
+										<span id="droparea" class="help-block"></span>
 									</div>
 								</div>
 							</div>
